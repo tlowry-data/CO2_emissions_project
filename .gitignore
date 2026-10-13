@@ -1,0 +1,10 @@
+# macOS creates this hidden file in every folder you open in Finder
+.DS_Store
+
+# VS Code's per-folder editor settings — personal, not part of the project
+.vscode/
+
+# Python and Jupyter leftovers — you won't make these in this project,
+# but you will in later modules, so ignore them from day one
+__pycache__/
+.ipynb_checkpoints/
